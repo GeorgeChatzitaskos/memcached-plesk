@@ -2,15 +2,15 @@
 Memcached Installation Script for Plesk PHP Handlers
 # Memcached Installation Script for Plesk PHP Handlers
 
-This script automates the installation of the Memcached PHP extension for all PHP versions available in Plesk PHP Handlers. It provides an easy and convenient way to install Memcached without manually configuring each PHP version.
+🔧 This script automates the installation of the Memcached PHP extension for all PHP versions available in Plesk PHP Handlers. It provides an easy and convenient way to install Memcached without manually configuring each PHP version.
 
 ## Features
 
-- Installs Memcached PHP extension for all PHP versions in Plesk PHP Handlers.
-- Creates backups of PHP configuration files before making any changes.
-- Prompts for confirmation before performing each action.
-- Supports both Red Hat and Debian-based operating systems.
-- Restarts the PHP-FPM service and Apache server when necessary.
+✨ Installs Memcached PHP extension for all PHP versions in Plesk PHP Handlers.
+📂 Creates backups of PHP configuration files before making any changes.
+🔒 Prompts for confirmation before performing each action.
+🐧 Supports both Red Hat and Debian-based operating systems.
+🔄 Restarts the PHP-FPM service and Apache server when necessary.
 
 ## Usage
 
@@ -33,13 +33,13 @@ This script automates the installation of the Memcached PHP extension for all PH
 
 ## License
 
-This script is released under the [MIT License](LICENSE).
+📄 This script is released under the [MIT License](LICENSE).
 
 ## Author
 
-- George Chatzitaskos - [SmartBytes Dev](https://smartbytes.gr)
+👤 George Chatzitaskos - [SmartBytes Dev](https://smartbytes.gr)
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+🤝 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
