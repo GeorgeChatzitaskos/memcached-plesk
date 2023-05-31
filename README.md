@@ -37,7 +37,7 @@ This script is released under the [MIT License](LICENSE).
 
 ## Author
 
-- George Chatzitaskos - [SmartBytes Dev](https://github.com/smartbytes-dev)
+- George Chatzitaskos - [SmartBytes Dev](https://smartbytes.gr)
 
 ## Contributing
 
